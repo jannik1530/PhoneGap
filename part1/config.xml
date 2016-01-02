@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="de.frauendj.part1" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="de.jannik1530.part1" version="1.1.2">
   <description>Hello World sample application that responds to the deviceready event.</description>
   <author>jannik1530</author>
     
